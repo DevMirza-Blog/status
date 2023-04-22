@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.cyclonebotlist.ml.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3325,
-    "timeDay": 3660,
-    "timeWeek": 3391,
-    "timeMonth": 3325,
-    "timeYear": 3325,
+    "uptime": "97.46%",
+    "uptimeDay": "68.89%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "97.46%",
+    "time": 3317,
+    "timeDay": 3463,
+    "timeWeek": 3645,
+    "timeMonth": 3317,
+    "timeYear": 3317,
     "dailyMinutesDown": {
-      "2023-04-21": 0
+      "2023-04-22": 55,
+      "2023-04-21": 393
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-backend-production.up.railway.app.ico",
     "slug": "blog-backend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 240,
-    "timeWeek": 231,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "uptime": "97.46%",
+    "uptimeDay": "68.90%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "97.46%",
+    "time": 217,
+    "timeDay": 226,
+    "timeWeek": 226,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2023-04-21": 0
+      "2023-04-22": 55,
+      "2023-04-21": 393
     }
   }
 ]
