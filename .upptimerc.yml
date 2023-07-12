@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Blog
-    url: https://blog.cyclonebotlist.ml
+    url: https://blog-devmirza.vercel.app/
   - name: Blog Backend
     url: https://devmirza-blog-zaid-maker.koyeb.app/
 
