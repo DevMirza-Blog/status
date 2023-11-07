@@ -1,7 +1,7 @@
 url: https://blog-devmirza.vercel.app/
-status: up
-code: 200
-responseTime: 5561
-lastUpdated: 2023-11-06T23:09:05.003Z
+status: down
+code: 504
+responseTime: 11091
+lastUpdated: 2023-11-07T02:34:08.721Z
 startTime: 2023-04-09T18:30:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
