@@ -6,7 +6,7 @@ sites:
   - name: Blog
     url: https://blog-devmirza.vercel.app/
   - name: Blog Backend (netlify)
-    url: https://starlit-panda-cad411.netlify.app/
+    url: https://devmirza-blog-backend-production.up.railway.app/admin
   - name: Blog Backend
     url: https://devmirza-blog-zaid-maker.koyeb.app/
 
