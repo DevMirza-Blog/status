@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog-devmirza.vercel.app.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "89.25%",
+    "uptime": "89.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.64%",
     "uptimeYear": "94.84%",
     "time": 5371,
-    "timeDay": 5040,
-    "timeWeek": 5415,
-    "timeMonth": 5359,
-    "timeYear": 5666,
+    "timeDay": 5091,
+    "timeWeek": 5378,
+    "timeMonth": 5351,
+    "timeYear": 5669,
     "dailyMinutesDown": {
       "2024-08-23": 750,
       "2024-08-22": 1159,
@@ -63,8 +63,7 @@
       "2023-10-27": 21,
       "2023-10-24": 18,
       "2023-10-21": 36,
-      "2023-09-17": 525,
-      "2023-09-16": 320
+      "2023-09-17": 525
     }
   },
   {
@@ -73,18 +72,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-backend-production.up.railway.app.ico",
     "slug": "blog-backend-netlify",
     "status": "down",
-    "uptime": "8.47%",
+    "uptime": "8.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "8.66%",
-    "time": 591,
-    "timeDay": 244,
-    "timeWeek": 255,
-    "timeMonth": 299,
-    "timeYear": 481,
+    "time": 590,
+    "timeDay": 177,
+    "timeWeek": 239,
+    "timeMonth": 295,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2024-09-14": 60,
+      "2024-09-15": 68,
+      "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
@@ -416,8 +416,7 @@
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
-      "2023-09-17": 1440,
-      "2023-09-16": 1440
+      "2023-09-17": 1440
     }
   },
   {
@@ -426,15 +425,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
     "status": "up",
-    "uptime": "92.18%",
+    "uptime": "92.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.87%",
     "uptimeYear": "95.07%",
-    "time": 450,
-    "timeDay": 392,
-    "timeWeek": 501,
-    "timeMonth": 479,
+    "time": 451,
+    "timeDay": 399,
+    "timeWeek": 462,
+    "timeMonth": 477,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2024-08-23": 750,
@@ -479,8 +478,7 @@
       "2023-10-30": 372,
       "2023-10-27": 20,
       "2023-10-24": 18,
-      "2023-09-17": 525,
-      "2023-09-16": 320
+      "2023-09-17": 525
     }
   }
 ]
