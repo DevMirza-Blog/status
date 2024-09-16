@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog-devmirza.vercel.app.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "89.27%",
+    "uptime": "89.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.64%",
     "uptimeYear": "94.84%",
-    "time": 5371,
-    "timeDay": 5091,
-    "timeWeek": 5378,
-    "timeMonth": 5351,
-    "timeYear": 5669,
+    "time": 5375,
+    "timeDay": 5719,
+    "timeWeek": 5440,
+    "timeMonth": 5362,
+    "timeYear": 5673,
     "dailyMinutesDown": {
       "2024-08-23": 750,
       "2024-08-22": 1159,
@@ -62,8 +62,7 @@
       "2023-10-30": 372,
       "2023-10-27": 21,
       "2023-10-24": 18,
-      "2023-10-21": 36,
-      "2023-09-17": 525
+      "2023-10-21": 36
     }
   },
   {
@@ -72,18 +71,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-backend-production.up.railway.app.ico",
     "slug": "blog-backend-netlify",
     "status": "down",
-    "uptime": "8.45%",
+    "uptime": "8.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "8.66%",
-    "time": 590,
-    "timeDay": 177,
-    "timeWeek": 239,
-    "timeMonth": 295,
-    "timeYear": 475,
+    "time": 589,
+    "timeDay": 413,
+    "timeWeek": 243,
+    "timeMonth": 299,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2024-09-15": 68,
+      "2024-09-16": 65,
+      "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -415,8 +415,7 @@
       "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
-      "2023-09-18": 1440,
-      "2023-09-17": 1440
+      "2023-09-18": 1440
     }
   },
   {
@@ -425,15 +424,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
     "status": "up",
-    "uptime": "92.19%",
+    "uptime": "92.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.87%",
     "uptimeYear": "95.07%",
     "time": 451,
-    "timeDay": 399,
-    "timeWeek": 462,
-    "timeMonth": 477,
+    "timeDay": 474,
+    "timeWeek": 427,
+    "timeMonth": 481,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2024-08-23": 750,
@@ -477,8 +476,7 @@
       "2023-11-01": 44,
       "2023-10-30": 372,
       "2023-10-27": 20,
-      "2023-10-24": 18,
-      "2023-09-17": 525
+      "2023-10-24": 18
     }
   }
 ]
