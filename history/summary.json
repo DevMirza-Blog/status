@@ -82,7 +82,7 @@
     "timeMonth": 300,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2024-09-19": 62,
+      "2024-09-19": 359,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
@@ -423,9 +423,9 @@
     "url": "https://devmirza-blog-zaid-maker.koyeb.app/",
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "92.25%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.87%",
     "uptimeYear": "95.23%",
@@ -435,6 +435,7 @@
     "timeMonth": 489,
     "timeYear": 488,
     "dailyMinutesDown": {
+      "2024-09-19": 0,
       "2024-08-23": 750,
       "2024-08-22": 1058,
       "2024-08-07": 31,
