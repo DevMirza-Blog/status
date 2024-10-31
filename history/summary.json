@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog-devmirza.vercel.app.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "83.19%",
+    "uptime": "83.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "84.21%",
-    "time": 5335,
-    "timeDay": 2592,
-    "timeWeek": 2486,
-    "timeMonth": 2506,
-    "timeYear": 5419,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "84.00%",
+    "time": 5330,
+    "timeDay": 3191,
+    "timeWeek": 2556,
+    "timeMonth": 2528,
+    "timeYear": 5420,
     "dailyMinutesDown": {
-      "2024-10-30": 65,
+      "2024-10-31": 65,
+      "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -98,8 +99,7 @@
       "2023-11-27": 58,
       "2023-11-22": 46,
       "2023-11-07": 54,
-      "2023-11-06": 395,
-      "2023-11-01": 44
+      "2023-11-06": 395
     }
   },
   {
@@ -108,18 +108,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-backend-production.up.railway.app.ico",
     "slug": "blog-backend-netlify",
     "status": "down",
-    "uptime": "7.56%",
+    "uptime": "7.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "8.66%",
-    "time": 562,
-    "timeDay": 148,
-    "timeWeek": 255,
-    "timeMonth": 314,
-    "timeYear": 352,
+    "time": 561,
+    "timeDay": 233,
+    "timeWeek": 252,
+    "timeMonth": 311,
+    "timeYear": 349,
     "dailyMinutesDown": {
-      "2024-10-30": 65,
+      "2024-10-31": 65,
+      "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -451,8 +452,7 @@
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
-      "2023-11-02": 1440,
-      "2023-11-01": 1440
+      "2023-11-02": 1440
     }
   },
   {
@@ -461,18 +461,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
     "status": "down",
-    "uptime": "85.88%",
+    "uptime": "85.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "84.43%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "84.23%",
     "time": 460,
-    "timeDay": 150,
-    "timeWeek": 176,
-    "timeMonth": 250,
+    "timeDay": 185,
+    "timeWeek": 173,
+    "timeMonth": 248,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2024-10-30": 65,
+      "2024-10-31": 65,
+      "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -551,8 +552,7 @@
       "2023-11-27": 57,
       "2023-11-22": 46,
       "2023-11-07": 17,
-      "2023-11-06": 395,
-      "2023-11-01": 44
+      "2023-11-06": 395
     }
   }
 ]
