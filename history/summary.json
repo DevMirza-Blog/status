@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog-devmirza.vercel.app.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "51.29%",
+    "uptime": "51.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 3202,
-    "timeDay": 2297,
-    "timeWeek": 2727,
-    "timeMonth": 2715,
+    "time": 3197,
+    "timeDay": 2805,
+    "timeWeek": 2728,
+    "timeMonth": 2716,
     "timeYear": 2678,
     "dailyMinutesDown": {
-      "2025-10-19": 79,
+      "2025-10-20": 76,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -379,8 +380,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1440,
-      "2024-10-20": 1440
+      "2024-10-21": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 319,
-    "timeDay": 127,
-    "timeWeek": 204,
-    "timeMonth": 175,
-    "timeYear": 326,
+    "timeDay": 134,
+    "timeWeek": 203,
+    "timeMonth": 176,
+    "timeYear": 325,
     "dailyMinutesDown": {
-      "2025-10-19": 79,
+      "2025-10-20": 76,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -763,8 +764,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1440,
-      "2024-10-20": 1440
+      "2024-10-21": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
     "status": "down",
-    "uptime": "52.95%",
+    "uptime": "52.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 295,
-    "timeDay": 205,
-    "timeWeek": 213,
-    "timeMonth": 259,
+    "timeDay": 346,
+    "timeWeek": 231,
+    "timeMonth": 265,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-10-19": 79,
+      "2025-10-20": 76,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -1147,8 +1148,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1440,
-      "2024-10-20": 1440
+      "2024-10-21": 1440
     }
   }
 ]
