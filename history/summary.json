@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog-devmirza.vercel.app.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "50.42%",
+    "uptime": "50.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3114,
-    "timeDay": 2829,
-    "timeWeek": 2820,
-    "timeMonth": 2776,
-    "timeYear": 2686,
+    "time": 3110,
+    "timeDay": 3110,
+    "timeWeek": 2860,
+    "timeMonth": 2786,
+    "timeYear": 2687,
     "dailyMinutesDown": {
-      "2025-11-04": 74,
+      "2025-11-05": 75,
+      "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
@@ -379,8 +380,7 @@
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
-      "2024-11-06": 1440,
-      "2024-11-05": 1440
+      "2024-11-06": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 316,
-    "timeDay": 118,
-    "timeWeek": 172,
+    "timeDay": 141,
+    "timeWeek": 174,
     "timeMonth": 176,
-    "timeYear": 319,
+    "timeYear": 318,
     "dailyMinutesDown": {
-      "2025-11-04": 74,
+      "2025-11-05": 75,
+      "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
@@ -763,8 +764,7 @@
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
-      "2024-11-06": 1440,
-      "2024-11-05": 1440
+      "2024-11-06": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
     "status": "down",
-    "uptime": "52.05%",
+    "uptime": "51.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 288,
-    "timeDay": 129,
-    "timeWeek": 221,
-    "timeMonth": 235,
+    "timeDay": 231,
+    "timeWeek": 232,
+    "timeMonth": 237,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2025-11-04": 74,
+      "2025-11-05": 75,
+      "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
@@ -1147,8 +1148,7 @@
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
-      "2024-11-06": 1440,
-      "2024-11-05": 1440
+      "2024-11-06": 1440
     }
   }
 ]
