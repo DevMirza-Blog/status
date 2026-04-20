@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog-devmirza.vercel.app.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "42.85%",
+    "uptime": "42.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 2776,
-    "timeDay": 2304,
-    "timeWeek": 2926,
-    "timeMonth": 2934,
-    "timeYear": 2891,
+    "timeDay": 2808,
+    "timeWeek": 2930,
+    "timeMonth": 2924,
+    "timeYear": 2892,
     "dailyMinutesDown": {
-      "2026-04-19": 133,
+      "2026-04-20": 142,
+      "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
@@ -379,8 +380,7 @@
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
-      "2025-04-21": 1440,
-      "2025-04-20": 1440
+      "2025-04-21": 1440
     }
   },
   {
@@ -394,13 +394,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 266,
-    "timeDay": 165,
-    "timeWeek": 147,
+    "time": 265,
+    "timeDay": 103,
+    "timeWeek": 149,
     "timeMonth": 131,
-    "timeYear": 227,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-04-19": 133,
+      "2026-04-20": 142,
+      "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
@@ -763,8 +764,7 @@
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
-      "2025-04-21": 1440,
-      "2025-04-20": 1440
+      "2025-04-21": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
     "status": "down",
-    "uptime": "44.23%",
+    "uptime": "44.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 276,
-    "timeDay": 297,
-    "timeWeek": 260,
-    "timeMonth": 227,
-    "timeYear": 287,
+    "timeDay": 231,
+    "timeWeek": 261,
+    "timeMonth": 228,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2026-04-19": 133,
+      "2026-04-20": 142,
+      "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
@@ -1147,8 +1148,7 @@
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
-      "2025-04-21": 1440,
-      "2025-04-20": 1440
+      "2025-04-21": 1440
     }
   }
 ]
