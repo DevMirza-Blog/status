@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog-devmirza.vercel.app.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "42.61%",
+    "uptime": "42.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2780,
-    "timeDay": 2849,
-    "timeWeek": 2845,
-    "timeMonth": 2911,
+    "time": 2782,
+    "timeDay": 3040,
+    "timeWeek": 2950,
+    "timeMonth": 2919,
     "timeYear": 2895,
     "dailyMinutesDown": {
-      "2026-04-25": 123,
+      "2026-04-26": 145,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -379,8 +380,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 264,
-    "timeDay": 70,
-    "timeWeek": 162,
-    "timeMonth": 130,
-    "timeYear": 223,
+    "timeDay": 229,
+    "timeWeek": 171,
+    "timeMonth": 132,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-04-25": 123,
+      "2026-04-26": 145,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -763,8 +764,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
     "status": "down",
-    "uptime": "43.99%",
+    "uptime": "43.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 277,
-    "timeDay": 133,
-    "timeWeek": 282,
-    "timeMonth": 238,
+    "timeDay": 289,
+    "timeWeek": 281,
+    "timeMonth": 239,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2026-04-25": 123,
+      "2026-04-26": 145,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -1147,8 +1148,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   }
 ]
