@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog-devmirza.vercel.app.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "39.36%",
+    "uptime": "39.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2781,
-    "timeDay": 2559,
-    "timeWeek": 2310,
-    "timeMonth": 2337,
-    "timeYear": 2773,
+    "time": 2780,
+    "timeDay": 2308,
+    "timeWeek": 2324,
+    "timeMonth": 2340,
+    "timeYear": 2771,
     "dailyMinutesDown": {
-      "2026-07-26": 144,
+      "2026-07-27": 151,
+      "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -379,8 +380,7 @@
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
-      "2025-07-28": 1440,
-      "2025-07-27": 1440
+      "2025-07-28": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 256,
-    "timeDay": 207,
-    "timeWeek": 160,
-    "timeMonth": 125,
+    "timeDay": 187,
+    "timeWeek": 169,
+    "timeMonth": 130,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2026-07-26": 144,
+      "2026-07-27": 151,
+      "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -763,8 +764,7 @@
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
-      "2025-07-28": 1440,
-      "2025-07-27": 1440
+      "2025-07-28": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
     "status": "down",
-    "uptime": "40.63%",
+    "uptime": "40.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 252,
-    "timeDay": 478,
-    "timeWeek": 156,
-    "timeMonth": 105,
+    "timeDay": 177,
+    "timeWeek": 178,
+    "timeMonth": 110,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2026-07-26": 144,
+      "2026-07-27": 151,
+      "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -1147,8 +1148,7 @@
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
-      "2025-07-28": 1440,
-      "2025-07-27": 1440
+      "2025-07-28": 1440
     }
   }
 ]
