@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog-devmirza.vercel.app.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "39.32%",
+    "uptime": "39.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 2780,
-    "timeDay": 2308,
-    "timeWeek": 2324,
-    "timeMonth": 2340,
+    "timeDay": 2519,
+    "timeWeek": 2376,
+    "timeMonth": 2348,
     "timeYear": 2771,
     "dailyMinutesDown": {
-      "2026-07-27": 151,
+      "2026-07-28": 126,
+      "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
@@ -379,8 +380,7 @@
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
-      "2025-07-29": 1440,
-      "2025-07-28": 1440
+      "2025-07-29": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 256,
-    "timeDay": 187,
-    "timeWeek": 169,
-    "timeMonth": 130,
-    "timeYear": 203,
+    "timeDay": 68,
+    "timeWeek": 151,
+    "timeMonth": 131,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2026-07-27": 151,
+      "2026-07-28": 126,
+      "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
@@ -763,8 +764,7 @@
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
-      "2025-07-29": 1440,
-      "2025-07-28": 1440
+      "2025-07-29": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
     "status": "down",
-    "uptime": "40.59%",
+    "uptime": "40.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 252,
-    "timeDay": 177,
-    "timeWeek": 178,
+    "timeDay": 34,
+    "timeWeek": 152,
     "timeMonth": 110,
-    "timeYear": 252,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2026-07-27": 151,
+      "2026-07-28": 126,
+      "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
@@ -1147,8 +1148,7 @@
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
-      "2025-07-29": 1440,
-      "2025-07-28": 1440
+      "2025-07-29": 1440
     }
   }
 ]
