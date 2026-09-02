@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog-devmirza.vercel.app.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "38.18%",
+    "uptime": "38.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 2757,
-    "timeDay": 2402,
-    "timeWeek": 2367,
-    "timeMonth": 2360,
-    "timeYear": 2716,
+    "timeDay": 2386,
+    "timeWeek": 2374,
+    "timeMonth": 2362,
+    "timeYear": 2714,
     "dailyMinutesDown": {
-      "2026-09-01": 198,
+      "2026-09-02": 156,
+      "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -379,8 +380,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
-      "2025-09-03": 1440,
-      "2025-09-02": 1440
+      "2025-09-03": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 231,
-    "timeDay": 86,
-    "timeWeek": 58,
-    "timeMonth": 129,
+    "timeDay": 85,
+    "timeWeek": 67,
+    "timeMonth": 126,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2026-09-01": 198,
+      "2026-09-02": 156,
+      "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -763,8 +764,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
-      "2025-09-03": 1440,
-      "2025-09-02": 1440
+      "2025-09-03": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
     "status": "down",
-    "uptime": "39.41%",
+    "uptime": "39.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 242,
-    "timeDay": 102,
-    "timeWeek": 64,
-    "timeMonth": 113,
-    "timeYear": 234,
+    "time": 241,
+    "timeDay": 44,
+    "timeWeek": 65,
+    "timeMonth": 109,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2026-09-01": 198,
+      "2026-09-02": 156,
+      "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -1147,8 +1148,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
-      "2025-09-03": 1440,
-      "2025-09-02": 1440
+      "2025-09-03": 1440
     }
   }
 ]
