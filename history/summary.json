@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog-devmirza.vercel.app.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "37.72%",
+    "uptime": "37.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 2746,
-    "timeDay": 2375,
-    "timeWeek": 2353,
-    "timeMonth": 2355,
-    "timeYear": 2695,
+    "timeDay": 2463,
+    "timeWeek": 2356,
+    "timeMonth": 2361,
+    "timeYear": 2693,
     "dailyMinutesDown": {
-      "2026-09-16": 184,
+      "2026-09-17": 188,
+      "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -379,8 +380,7 @@
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
-      "2025-09-18": 1440,
-      "2025-09-17": 1440
+      "2025-09-18": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 223,
-    "timeDay": 70,
-    "timeWeek": 81,
-    "timeMonth": 107,
+    "timeDay": 230,
+    "timeWeek": 92,
+    "timeMonth": 112,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2026-09-16": 184,
+      "2026-09-17": 188,
+      "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -763,8 +764,7 @@
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
-      "2025-09-18": 1440,
-      "2025-09-17": 1440
+      "2025-09-18": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
     "status": "down",
-    "uptime": "38.94%",
+    "uptime": "38.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 238,
-    "timeDay": 35,
-    "timeWeek": 104,
-    "timeMonth": 103,
+    "time": 239,
+    "timeDay": 254,
+    "timeWeek": 109,
+    "timeMonth": 109,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-09-16": 184,
+      "2026-09-17": 188,
+      "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -1147,8 +1148,7 @@
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
-      "2025-09-18": 1440,
-      "2025-09-17": 1440
+      "2025-09-18": 1440
     }
   }
 ]
