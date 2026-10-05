@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog-devmirza.vercel.app.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "37.19%",
+    "uptime": "37.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2728,
-    "timeDay": 2528,
-    "timeWeek": 2337,
-    "timeMonth": 2365,
-    "timeYear": 2676,
+    "time": 2727,
+    "timeDay": 2537,
+    "timeWeek": 2378,
+    "timeMonth": 2370,
+    "timeYear": 2675,
     "dailyMinutesDown": {
-      "2026-10-04": 242,
+      "2026-10-05": 227,
+      "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -379,8 +380,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
-      "2025-10-06": 1440,
-      "2025-10-05": 1440
+      "2025-10-06": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 211,
-    "timeDay": 84,
-    "timeWeek": 65,
-    "timeMonth": 98,
+    "timeDay": 120,
+    "timeWeek": 71,
+    "timeMonth": 99,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2026-10-04": 242,
+      "2026-10-05": 227,
+      "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -763,8 +764,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
-      "2025-10-06": 1440,
-      "2025-10-05": 1440
+      "2025-10-06": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
     "status": "down",
-    "uptime": "38.39%",
+    "uptime": "38.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 235,
-    "timeDay": 23,
-    "timeWeek": 83,
-    "timeMonth": 125,
+    "timeDay": 213,
+    "timeWeek": 107,
+    "timeMonth": 131,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2026-10-04": 242,
+      "2026-10-05": 227,
+      "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -1147,8 +1148,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
-      "2025-10-06": 1440,
-      "2025-10-05": 1440
+      "2025-10-06": 1440
     }
   }
 ]
