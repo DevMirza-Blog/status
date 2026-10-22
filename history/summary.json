@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog-devmirza.vercel.app.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "36.70%",
+    "uptime": "36.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2709,
-    "timeDay": 2558,
-    "timeWeek": 2454,
-    "timeMonth": 2357,
+    "time": 2707,
+    "timeDay": 2177,
+    "timeWeek": 2398,
+    "timeMonth": 2347,
     "timeYear": 2657,
     "dailyMinutesDown": {
-      "2026-10-21": 185,
+      "2026-10-22": 183,
+      "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -379,8 +380,7 @@
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
-      "2025-10-23": 1440,
-      "2025-10-22": 1440
+      "2025-10-23": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 203,
-    "timeDay": 33,
-    "timeWeek": 108,
-    "timeMonth": 104,
+    "timeDay": 32,
+    "timeWeek": 102,
+    "timeMonth": 96,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2026-10-21": 185,
+      "2026-10-22": 183,
+      "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -763,8 +764,7 @@
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
-      "2025-10-23": 1440,
-      "2025-10-22": 1440
+      "2025-10-23": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-zaid-maker.koyeb.app.ico",
     "slug": "blog-backend",
     "status": "down",
-    "uptime": "37.89%",
+    "uptime": "37.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 231,
-    "timeDay": 77,
-    "timeWeek": 113,
-    "timeMonth": 147,
-    "timeYear": 213,
+    "timeDay": 49,
+    "timeWeek": 116,
+    "timeMonth": 140,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2026-10-21": 185,
+      "2026-10-22": 183,
+      "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -1147,8 +1148,7 @@
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
-      "2025-10-23": 1440,
-      "2025-10-22": 1440
+      "2025-10-23": 1440
     }
   }
 ]
